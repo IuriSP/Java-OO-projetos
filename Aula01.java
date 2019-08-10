@@ -11,6 +11,10 @@ public class Aula01 {
 		System.out.println("Hello World");
 		
 		sc.close();//Close object Scanner
+		
+		/*
+		 * Shortcut for auto-indentation: Ctrl + Shift + F 
+		 */
 	}
 
 }
